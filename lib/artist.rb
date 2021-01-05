@@ -3,5 +3,6 @@ class Artist
 
   def initialize
     @name = name
+    @Author = Author
   end
 end
